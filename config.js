@@ -23,7 +23,7 @@ module.exports = {
   ],
   author: {
     name: "Peer Rheinboldt",
-    photo: "/photo.jpg",
+    photo: "",
     bio:
       "I'm Peer. I'm interested in Linux, AI and just technology in general.",
     contacts: {
