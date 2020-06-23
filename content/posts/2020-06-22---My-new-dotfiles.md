@@ -12,7 +12,7 @@ description: "In this post I just wanted to update you on the tools I currently 
 socialImage: ""
 ---
 
-In this post, I decided to update you on my current [dotfiles](https://gitlab.com/peer.rheinboldt/dotfiles) configuration. I have made some major changes ranging from the programs used to the way I sync the dotfiles.
+In this post, I decided to update you on my current [dotfiles](https://github.com/peerlator/dotfiles) configuration. I have made some major changes ranging from the programs used to the way I sync the dotfiles.
 
 ## 1. The syncing method
 

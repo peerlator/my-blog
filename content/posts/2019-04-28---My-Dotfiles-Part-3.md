@@ -13,7 +13,7 @@ socialImage: ""
 
 ## Disclaimer
 
-Since writing I have redone my dotfiles and these are no longer maintaned. Check out my new dotfiles under https://gitlab.com/peer.rheinboldt/dotfiles.
+Since writing I have redone my dotfiles and these are no longer maintaned. Check out my new dotfiles underhttps://github.com/peerlator/dotfiles.
 
 ## What's this?
 
