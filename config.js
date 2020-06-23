@@ -9,7 +9,7 @@ module.exports = {
   copyright: "© All rights reserved.",
   disqusShortname: "",
   postsPerPage: 4,
-  googleAnalyticsId: "",
+  googleAnalyticsId: "UA-170472791-1",
   useKatex: false,
   menu: [
     {
